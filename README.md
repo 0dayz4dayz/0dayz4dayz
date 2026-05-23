@@ -283,4 +283,4 @@ i write exploits the way i find them: heavily medicated, fucking furious, the ab
 
 I WANT SHDB. ~23.6TB (might be off on the size, i do a lot of drugs).
 
-I'LL KNOW IF IT'S REAL. I HAVE EVERY SAMPLE AND FAKE. DON'T EVEN TRY.
+I'LL KNOW IF IT'S REAL. I HAVE EVERY SAMPLE AND FAKE. DON'T EVEN TRY I WILL JAM A KEYPLUG SO FAR UP YOUR ASS.
