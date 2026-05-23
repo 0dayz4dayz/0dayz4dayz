@@ -44,7 +44,7 @@ then i try to report them. sometimes 🤷.
 **what you might get:**
 - 🎲 **full working exploit** 💣 - if i'm in a really bad mood 😡 or you banned me from your chat 🚫
 - 🎲 **gapped with hints** 🧩 - if i'm feeling generous but not that generous 😏
-- 🎲 **responsible disclosure** 📝 - if you respond within 24 hours ⏰ and don't say "expected behavior" 🙄
+- 🎲 **responsible disclosure** 📝 - YEAH NO YOU COME TO Me AND DEAL ON my terms FUCK bullshit out of scope,$500 for something that'd fetch a million if i was a dick and sold it to russia" you'll find me actually very reasonable(lmfao)🙄
 - 🎲 **chaotic drop** 🌪️ - random repo appears with no context 🤷
 - 🎲 **nothing** 🤐 - if i forgot i found it 🤔
 
@@ -54,9 +54,9 @@ then i try to report them. sometimes 🤷.
 - sometimes responsible ✅, sometimes chaotic 💥, always unpredictable 🎲
 - full code if you piss me off 😤
 - gapped if i'm feeling nice 😇
-- production systems only 🏭 (no debug mode bullshit 🚫)
+- production systems only 🏭 (no debug mfg uart jtag mode or gettin permission  bullshit 🚫)
 - no email 📧, no contact 📞, no support 🆘
-- figure it out yourselves or don't, i don't care 🤷
+- figure it out yourselves or don't, i don't care like i lost my last fuck some time ago 🤷
 
 ---
 
@@ -69,6 +69,7 @@ apparently trying to help vendors fix their shit gets you:
 - dismissed as "not a real issue" 🙄
 - banned from matrix chats 🚫 for mentioning vulnerabilities 🐛
 - $0.00 in bug bounty payments 💸
+- - rectal id scans for a few bits of silver for shit that affects billions
 
 so fuck it 🖕. here's the exploit 💣. maybe pay for bug bounties next time 💰. or at least buy me lunch 🍔.
 
