@@ -142,13 +142,16 @@ but honestly i'm not your free security consultant
 
 ## 🕵️ for the select few
 
-if you're from a three letter agency and you know what the tensor thing means,
-you know how to reach me. 
+if you're from a a rea; agency(sorry fbi i...just dont vibe with you rn) or a serious contractor reach out,
+you know how to reach me and who i am.
 
-i'd legit love to work for you. also please unban me from the USA.
+i'd legit love to work for you. also please unban me from the USA i legit didnt do anything im comin anyway but i wanna do so without a fake passport or a private jet y know?
 
 everyone else: don't bother. unless you bring cash money. 
 i really love my fucking orange juice AND IT'S RUNNING OUT.
+
+PS:Mossad ye youre on the email list we cool
+like jews run the world or w/e despite being a tiyn  country fucking miles aay from the west?,yeah sure id love to run the world i think id do a great job do we get to smoke weed at work?
 
 ---
 
@@ -209,7 +212,7 @@ i write exploits the way i find them: heavily medicated, fucking furious, the ab
 - browser to GPU firmware escape
 - telegram PNG to DMA escape chain
 - android 0-click full chain (no interaction needed)
-
+- looked at a mac once and just said "nope"
 ---
 
 ## 🏆 achievements unlocked
