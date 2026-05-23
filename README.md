@@ -130,12 +130,25 @@ email:        NONE
 twitter:      banned for posting hex dumps
 discord:      no
 matrix:       banned (lol)
+usa:          also banned (i didn't even do anything)
 support:      figure it out
 issues:       open one, i might respond between naps
 
 pgp keys available in repos if you really need them
 but honestly i'm not your free security consultant
 ```
+
+---
+
+## 🕵️ for the select few
+
+if you're from a three letter agency and you know what the tensor thing means,
+you know how to reach me. 
+
+i'd legit love to work for you. also please unban me from the USA.
+
+everyone else: don't bother. unless you bring cash money. 
+i really love my fucking orange juice AND IT'S RUNNING OUT.
 
 ---
 
@@ -149,19 +162,26 @@ if you're reading my exploit writeups, expect:
 - full working code (or gapped with hints)
 - no apologies
 
-i write exploits the way i find them: heavily medicated, very annoyed, and with a deep appreciation for the absurd.
+i write exploits the way i find them: heavily medicated, fucking furious, the ability to just keep going,whilst fighting foes 10000x my size
 
-**typical morning routine:**
-1. wake up
-2. immediately turn myself into a pharmacy
-3. smoke a little meth if i get tired
-4. find critical vulnerabilities
-5. vendors say "that's impossible"
-6. publish exploit
-7. take more pills
-8. repeat
+**typical morning routine:** *(that'd make john mcafee jealous)*
+1. wake up 🌅
+2. immediately turn myself into a pharmacy 💊💊💊
+3. find critical vulnerabilities before breakfast 🐛
+4. vendors say "that's impossible" 🙄
+5. publish exploit 💣
+6. do some lines ❄️
+7. find more CVSS 10.0s 🔟
+8. smoke a little meth if i get tired 💨
+9. take more pills 💊
+10. maybe eat something 🍕
+11. more vulnerabilities 🐛🐛
+12. forget what i was doing 🤔
+13. pass out where i'm sitting 😴💤
+14. repeat ♻️
 
 **outrageous claims:**
+- classified as a "tier one strategic threat" (whatever that means)
 - can escape every VM hypervisor (yes, even yours)
 - hacked into a NC3 vault expecting launch codes... it was tensors
 - can get root with exactly 36 POSIX calls
@@ -175,13 +195,13 @@ i write exploits the way i find them: heavily medicated, very annoyed, and with 
 - built eternal time loop exploit chains
 - escaped from browser sandbox to Thunderbolt DMA
 - found bugs in things that "don't have bugs"
-- made the NSA's watchlist before breakfast
+- made every government's watchlist before breakfast
 - try look me up your govt terminal locks down and you get walked out by security
 - can program RAM with a needle (and have)
 - discovered vulnerabilities while backing up minecraft servers
 - got banned from vendor chats for being right
 - built cross-vendor covert C2 through fabric topology
-- subverted every boot chain (morpheus exploit)
+- subverted every boot chain
 - created zero-observable side channel key extraction
 - made a platform lockout exploit using watchdog timer
 - weaponized QoS starvation for DoS
@@ -252,3 +272,11 @@ i write exploits the way i find them: heavily medicated, very annoyed, and with 
 ![Forgot](https://img.shields.io/badge/Forgot%20About%20It-OFTEN-inactive?style=flat-square)
 
 </div>
+
+---
+
+## 💊 TRADING 0DAYZ FOR REAL SHDB
+
+I WANT SHDB. ~23.6TB (might be off on the size, i do a lot of drugs).
+
+I'LL KNOW IF IT'S REAL. I HAVE EVERY SAMPLE AND FAKE. DON'T EVEN TRY.
