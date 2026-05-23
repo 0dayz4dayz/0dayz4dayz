@@ -182,6 +182,7 @@ i write exploits the way i find them: heavily medicated, fucking furious, the ab
 
 **outrageous claims:**
 - classified as a "tier one strategic threat" (whatever that means)
+- running 30 AIs all at once, all breaking shit simultaneously
 - can escape every VM hypervisor (yes, even yours)
 - hacked into a NC3 vault expecting launch codes... it was tensors
 - can get root with exactly 36 POSIX calls
