@@ -261,7 +261,7 @@ i write exploits the way i find them: heavily medicated, fucking furious, the ab
 ![Sobriety](https://img.shields.io/badge/Sobriety-VARIES%20BY%20COMMIT-orange?style=for-the-badge)
 ![Mood](https://img.shields.io/badge/Current%20Mood-ROLLING%20DICE-red?style=for-the-badge&logo=d20)
 
-![Made With](https://img.shields.io/badge/Made%20With-SPITE%20%26%20COFFEE-green?style=for-the-badge&logo=coffeescript)
+![Made With](https://img.shields.io/badge/Made%20With-PELICAN%20CASE%20OF%20NARCOTICS-green?style=for-the-badge&logo=coffeescript)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-DEPENDS-yellow?style=for-the-badge)
 ![Predictability](https://img.shields.io/badge/Predictability-NONE-critical?style=for-the-badge)
 ![RAM Programming](https://img.shields.io/badge/RAM%20Programming-WITH%20NEEDLE-cyan?style=for-the-badge)
