@@ -1,13 +1,14 @@
-# 0dayz4dayz
-## *chaotic neutral security researcher*
+# 💀 0dayz4dayz 💊
+## *хаотичный нейтральный security researcher* 🎲
+### *(chaotic neutral security researcher)*
 
 ```
      _______________________________________________
     /                                               \
-   |  "will they responsibly disclose?"             |
-   |  "will they drop gapped hints?"                |
-   |  "will they publish the full thing?"           |
-   |  "nobody knows. not even them."                |
+   |  "will they responsibly disclose?" 🤔          |
+   |  "will they drop gapped hints?" 🎯             |
+   |  "will they publish the full thing?" 💣        |
+   |  "nobody knows. not even them." 🎲             |
     \_______________________________________________/
             \   ^__^
              \  (oo)\_______
@@ -18,58 +19,58 @@
 
 ---
 
-## 🎲 who
+## 🎲 who 👤
 
-security researcher. was sober once back in the 90s. can program RAM with a needle if you give me enough coffee.
+security researcher. was sober once back in the 90s 🍺. can program RAM with a needle if you give me enough coffee ☕💉.
 
-i find bugs in things that shouldn't have bugs. hypervisors. firmware. hardware. the kind of stuff where the vendor says "that's impossible" and then you show them it's very possible. publicly. and break shit.
+i find bugs 🐛 in things that shouldn't have bugs. hypervisors. firmware. hardware. the kind of stuff where the vendor says "that's impossible" 🙅 and then you show them it's very possible. publicly 📢. and break shit 💥.
 
-**disclosure style:** depends on my mood and how much the vendor pissed me off
+**disclosure style:** depends on my mood 😤 and how much the vendor pissed me off 🖕
 
-**current status:** rolling dice to decide if this one gets gapped or full code
+**current status:** rolling dice 🎲 to decide if this one gets gapped or full code
 
-**sobriety level:** varies by commit
+**sobriety level:** varies by commit but honestly maybe for 5 mnutes right after i wake up max📊
 
-**bug bounty earnings:** $0.00 (still accepting job offers btw)
+**bug bounty earnings:** $0.00 💸 (still accepting job offers btw 📧)
 
 ---
 
-## 🎯 what i do
+## 🎯 what i do 💻
 
-i break things. production systems. no debug mode required. no special hardware. just regular off-the-shelf systems that millions of people use.
+i break things 🔨. production systems 🏭. no debug mode required. no special hardware. just regular off-the-shelf systems that millions of people use 👥.
 
-then i try to report them. sometimes.
+then i try to report them. sometimes 🤷.
 
 **what you might get:**
-- 🎲 **full working exploit** - if i'm in a really bad mood or you banned me from your chat
-- 🎲 **gapped with hints** - if i'm feeling generous but not that generous
-- 🎲 **responsible disclosure** - if you respond within 24 hours and don't say "expected behavior"
-- 🎲 **cryptic tweet** - if i'm drunk and bored
-- 🎲 **nothing** - if i forgot i found it
+- 🎲 **full working exploit** 💣 - if i'm in a really bad mood 😡 or you banned me from your chat 🚫
+- 🎲 **gapped with hints** 🧩 - if i'm feeling generous but not that generous 😏
+- 🎲 **responsible disclosure** 📝 - if you respond within 24 hours ⏰ and don't say "expected behavior" 🙄
+- 🎲 **cryptic drop** 🐦 - if i'm drunk 🥴 and bored 😴
+- 🎲 **nothing** 🤐 - if i forgot i found it 🤔
 
-**it's a mystery! even to me!**
+**it's a mystery! even to me!** 🎰
 
-**philosophy:**
-- sometimes responsible, sometimes chaotic, always unpredictable
-- full code if you piss me off
-- gapped if i'm feeling nice
-- production systems only (no debug mode bullshit)
-- no email, no contact, no support
-- figure it out yourselves or don't, i don't care
+**philosophy:** 🧠
+- sometimes responsible ✅, sometimes chaotic 💥, always unpredictable 🎲
+- full code if you piss me off 😤
+- gapped if i'm feeling nice 😇
+- production systems only 🏭 (no debug mode bullshit 🚫)
+- no email 📧, no contact 📞, no support 🆘
+- figure it out yourselves or don't, i don't care 🤷
 
 ---
 
-## 💸 why
+## 💸 why 🤔
 
-because bug bounties don't pay and i have no money to manipulate the stock market.
+because bug bounties don't pay 💰❌ and i have no money to manipulate the stock market 📉.
 
 apparently trying to help vendors fix their shit gets you:
-- ignored by security teams
-- dismissed as "not a real issue"
-- banned from matrix chats for mentioning vulnerabilities
-- $0.00 in bug bounty payments
+- ignored by security teams 🙈
+- dismissed as "not a real issue" 🙄
+- banned from matrix chats 🚫 for mentioning vulnerabilities 🐛
+- $0.00 in bug bounty payments 💸
 
-so fuck it. here's the exploit. maybe pay for bug bounties next time. or at least buy me lunch.
+so fuck it 🖕. here's the exploit 💣. maybe pay for bug bounties next time 💰. or at least buy me lunch 🍔.
 
 ---
 
@@ -214,9 +215,13 @@ i write exploits the way i find them: heavily medicated, very annoyed, and with 
 ---
 
 ```
-*written between naps by someone who wakes up and immediately turns themselves into a pharmacy
+*written between naps by someone who wakes up and 
+ immediately turns themselves into a pharmacy
+ 
  was sober once back in the 90s
- can actually program RAM with a needle if you give them enough pills and coffee
+ 
+ can actually program RAM with a needle if you give 
+ them enough pills and coffee
  
  maybe pay for bug bounties next time
  or at least buy researchers lunch
