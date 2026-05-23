@@ -45,7 +45,7 @@ then i try to report them. sometimes 🤷.
 - 🎲 **full working exploit** 💣 - if i'm in a really bad mood 😡 or you banned me from your chat 🚫
 - 🎲 **gapped with hints** 🧩 - if i'm feeling generous but not that generous 😏
 - 🎲 **responsible disclosure** 📝 - if you respond within 24 hours ⏰ and don't say "expected behavior" 🙄
-- 🎲 **cryptic drop** 🐦 - if i'm drunk 🥴 and bored 😴
+- 🎲 **chaotic drop** 🌪️ - random repo appears with no context 🤷
 - 🎲 **nothing** 🤐 - if i forgot i found it 🤔
 
 **it's a mystery! even to me!** 🎰
@@ -112,13 +112,13 @@ so fuck it 🖕. here's the exploit 💣. maybe pay for bug bounties next time �
 **other stuff:**
 
 ```
-targets:                hypervisors, firmware, chipsets, hardware
-specialty:              things vendors say are "impossible"
-debugging tools:        custom built monstrosities of jury rigged shit
-                        (i don't use gdb/ida/ghidra, only my own tooling)
-bug bounty earnings:    $0.00
-times banned:           lost count
-orange juice budget:    critically low
+targets:             hypervisors, firmware, chipsets, hardware
+specialty:           things vendors say are "impossible"
+debugging tools:     custom built monstrosities of jury rigged shit
+                     (i don't use gdb/ida/ghidra, only my own)
+bug bounty earnings: $0.00
+times banned:        lost count
+orange juice budget: critically low
 ```
 
 ---
