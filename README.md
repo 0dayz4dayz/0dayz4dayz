@@ -1,6 +1,7 @@
 # 💀 0dayz4dayz 💊
-## *хаотичный нейтральный security researcher* 🎲
-### *(chaotic neutral security researcher)*
+## *I MAKE THINGS THAT BREAK THINGS,AND GOD AM I SURROUNDED BY BUSTED SHIT*
+
+
 
 ```
      _______________________________________________
