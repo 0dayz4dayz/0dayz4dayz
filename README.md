@@ -143,17 +143,25 @@ but honestly i'm not your free security consultant
 ---
 
 ## 🕵️ for the select few
+If you know who i am,and i know a select few will...you can guess why im doing this,and since my entire profile is on file im sure this was predicted and planned for...unless i intentionally counteed your full house
 
-if you're from a a rea; agency(sorry fbi i...just dont vibe with you rn) or a serious contractor reach out,
-you know how to reach me and who i am.
+All i wanted was to be left alone,you all brought this upon yourselves and it is very unlikely to stop and you know how long i can keep this up for.
 
-i'd legit love to work for you. also please unban me from the USA i legit didnt do anything im comin anyway but i wanna do so without a fake passport or a private jet y know?
+You know what i want,in addition to the removal of the unjust ban from the USA
 
-everyone else: don't bother. unless you bring cash money. 
-i really love my fucking orange juice AND IT'S RUNNING OUT.
+Because trust me,im starting off with love taps
 
-PS:Mossad ye youre on the email list we cool
-like jews run the world or w/e despite being a tiyn  country fucking miles aay from the west?,yeah sure id love to run the world i think id do a great job do we get to smoke weed at work?
+everyone else: don't bother. unless you bring cash money,crypt only trace it if you want you wont get anywhere
+i really love my fucking orange juice AND IT'S RUNNING OUT BECAUSE OF SOME FUCKERS
+
+PS:If you want a 0day that hits US/UK/ISR/RUS NATSEC hmu...something will happen but idk if its gonna be what you want
+
+SHOUTOUTS:
+Kyle
+Joe
+XM
+41(TY FOR THE GIFTS)
+
 
 ---
 
