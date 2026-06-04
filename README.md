@@ -144,7 +144,7 @@ but honestly i'm not your free security consultant
 ---
 
 ## 🕵️ for the select few
-If you know who i am,and i know a select few will...you can guess why im doing this,and since my entire profile is on file im sure this was predicted and planned for...unless i intentionally counteed your full house
+If you know who i am,and i know a select few will...you can guess why im doing this,and since my entire profile is on file im sure this was predicted and planned for...unless like...it wasnt
 
 All i wanted was to be left alone,you all brought this upon yourselves and it is very unlikely to stop and you know how long i can keep this up for.
 
@@ -156,6 +156,9 @@ everyone else: don't bother. unless you bring cash money,crypt only trace it if 
 i really love my fucking orange juice AND IT'S RUNNING OUT BECAUSE OF SOME FUCKERS
 
 PS:If you want a 0day that hits US/UK/ISR/RUS NATSEC hmu...something will happen but idk if its gonna be what you want
+
+PPS:I 'vanish' every scrap of research hits approx 50 different repos/hosts at once..every.last.file
+THis cannot be disarmed even by me
 
 SHOUTOUTS:
 REDACTED
