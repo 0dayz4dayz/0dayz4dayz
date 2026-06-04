@@ -158,6 +158,7 @@ i really love my fucking orange juice AND IT'S RUNNING OUT BECAUSE OF SOME FUCKE
 PS:If you want a 0day that hits US/UK/ISR/RUS NATSEC hmu...something will happen but idk if its gonna be what you want
 
 PPS:I 'vanish' every scrap of research hits approx 50 different repos/hosts at once..every.last.file
+
 THis cannot be disarmed even by me
 
 SHOUTOUTS:
