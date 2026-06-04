@@ -157,10 +157,7 @@ i really love my fucking orange juice AND IT'S RUNNING OUT BECAUSE OF SOME FUCKE
 PS:If you want a 0day that hits US/UK/ISR/RUS NATSEC hmu...something will happen but idk if its gonna be what you want
 
 SHOUTOUTS:
-Kyle
-Joe
-XM
-41(TY FOR THE GIFTS)
+REDACTED
 
 
 ---
