@@ -71,7 +71,8 @@ apparently trying to help vendors fix their shit gets you:
 - banned from matrix chats 🚫 for mentioning vulnerabilities 🐛
 - $0.00 in bug bounty payments 💸
 - - rectal id scans for a few bits of silver for shit that affects billions
-
+- Normal shit,beef with entire agencies,countries....murder fails yknow the reg
+- - General Pissiness
 so fuck it 🖕. here's the exploit 💣. maybe pay for bug bounties next time 💰. or at least buy me lunch 🍔.
 
 ---
